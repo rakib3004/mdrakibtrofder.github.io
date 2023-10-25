@@ -1,9 +1,9 @@
 function moreDesignation() { 
-    document.getElementById("hideDesignation").innerHTML = "Expert coder in Codeforces<br>5 star coder in Codechef<br>Knight coder in Leetcode";
+    document.getElementById("hideDesignation").innerHTML = "2nd most active Github user in 2021";
 }
 
 function moreDescribe() { 
-    document.getElementById("hideDescribe").innerHTML = " I am interested in competitive programming.";
+    document.getElementById("hideDescribe").innerHTML = " I am interested in web development.";
 }
 
 function downloadPDF() {
